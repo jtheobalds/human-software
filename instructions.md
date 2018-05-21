@@ -3,7 +3,8 @@
 Author: Jaelynn Theobalds
 
 ## Brushing teeth
-These instructions assume the user is already in the bathroom 
+These instructions assume the user is already in the bathroom and has a toothbrush and
+enough toothpaste
 1. grab flat (non-bristle) end of toothbrush
 2. wet toothbrush bristles
 2. open toothpaste
