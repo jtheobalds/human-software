@@ -1,8 +1,9 @@
-#Human Software
+# Human Software
+
 Author: Jaelynn Theobalds
 
-##Brushing teeth
-
+## Brushing teeth
+These instructions assume the user is already in the bathroom 
 1. grab flat (non-bristle) end of toothbrush
 2. wet toothbrush bristles
 2. open toothpaste
@@ -17,8 +18,9 @@ Author: Jaelynn Theobalds
 10. rinse your mouth and the sink with water
 
 
-##How to turn on Netflix with a Roku stick
-
+## How to turn on Netflix with a Roku stick
+These instructions assume the user has a TV with HDMI outlets, an HDMI Roku stick,
+electricity, a Netflix account, and is old enough to read and handle minor electricity
 1. Make sure that the double-pronged television and Roku plugs are plugged into
     the wall
 2. If they are not, ask someone old enough (preferably older than 10) to plug
